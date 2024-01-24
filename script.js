@@ -29,7 +29,7 @@ function createSliderItems() {
     content.innerHTML = `
       <h2 class='title'>Happy Birthday Sutapa ${index + 1}</h2>
       <p class='description'>Wishing you a day as fabulous as you are, Sutapa! May this birthday bring you endless happiness, unforgettable memories, and a year ahead filled with success and prosperity. Happy Birthday!${index + 1}.</p>
-      <button>Read More</button>
+
     `;
 
     listItem.appendChild(content);
